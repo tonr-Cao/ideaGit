@@ -18,7 +18,7 @@ public class HelloGit {
         System.out.println("创建分支1");
         System.out.println("主干分支");
         System.out.println("dev分支");
-        System.out.println("这是在gitgub上进行的修改")
+        System.out.println("这是在gitgub上进行的修改");
     }
 
 }
